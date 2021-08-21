@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - 0
+  - 1
+  - 2
+  - 3
+  - 4
+  - 5
+  - main
+  - playerFirePoint
+  - boss
+  - large
+  - medium
+  - small
+  - bigZone
+  - smallZone
+  - zoneDmg
+  - walls
+  - decorations
+  - mediumBullet
+  - lasers
+  - bossRoom
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Player Bullets
+  - Baddy
+  - EnemyBullets
+  - Numbers
+  - Doors
+  - Walls
+  - Floor
+  - Decorations
+  - MiniMap
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Player
+    uniqueID: 3372501101
+    locked: 0

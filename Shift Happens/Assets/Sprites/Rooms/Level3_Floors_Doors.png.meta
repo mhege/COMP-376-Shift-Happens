@@ -1,0 +1,811 @@
+fileFormatVersion: 2
+guid: e1be6ccadb396894d81610d092635344
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -129640246908087295
+    second: Level3_Floors_Doors_0
+  - first:
+      213: -171158787200530893
+    second: Level3_Floors_Doors_1
+  - first:
+      213: 2840085051150349959
+    second: Level3_Floors_Doors_2
+  - first:
+      213: 7743756237545808277
+    second: Level3_Floors_Doors_3
+  - first:
+      213: -6937312373503016096
+    second: Level3_Floors_Doors_4
+  - first:
+      213: -3886037988592554909
+    second: Level3_Floors_Doors_5
+  - first:
+      213: 8080738301183940455
+    second: Level3_Floors_Doors_6
+  - first:
+      213: -7048182722167327635
+    second: Level3_Floors_Doors_7
+  - first:
+      213: -5716374401081449714
+    second: Level3_Floors_Doors_8
+  - first:
+      213: -1647394026539455571
+    second: Level3_Floors_Doors_9
+  - first:
+      213: 3328542292101197469
+    second: Level3_Floors_Doors_10
+  - first:
+      213: -6497206931956412618
+    second: Level3_Floors_Doors_11
+  - first:
+      213: -6459413179464938635
+    second: Level3_Floors_Doors_12
+  - first:
+      213: 8264910730939478734
+    second: Level3_Floors_Doors_13
+  - first:
+      213: 3946579563874471228
+    second: Level3_Floors_Doors_14
+  - first:
+      213: 5331797854037317807
+    second: Level3_Floors_Doors_15
+  - first:
+      213: -1761802267558691963
+    second: Level3_Floors_Doors_16
+  - first:
+      213: -7633545429456432158
+    second: Level3_Floors_Doors_17
+  - first:
+      213: 8916804872612954847
+    second: Level3_Floors_Doors_18
+  - first:
+      213: 3996898133342175578
+    second: Level3_Floors_Doors_19
+  - first:
+      213: 2055312098345463928
+    second: Level3_Floors_Doors_20
+  - first:
+      213: -2134178280381154158
+    second: Level3_Floors_Doors_21
+  - first:
+      213: -4888625866891261618
+    second: Level3_Floors_Doors_22
+  - first:
+      213: 6491224676825318302
+    second: Level3_Floors_Doors_23
+  - first:
+      213: -7382481136730692379
+    second: Level3_Floors_Doors_24
+  - first:
+      213: 5434293406783194434
+    second: Level3_Floors_Doors_25
+  - first:
+      213: 6769138903269510542
+    second: Level3_Floors_Doors_26
+  - first:
+      213: -62088684265204750
+    second: Level3_Floors_Doors_27
+  - first:
+      213: -8868633463792976485
+    second: Level3_Floors_Doors_28
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Level3_Floors_Doors_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1203
+        width: 294
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6033b0cbb01da74380e96bc8ac90e69
+      internalID: -129640246908087295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Floors_Doors_1
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1203
+        width: 292
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9ad38b4c988b0f44ae87840321a3c47
+      internalID: -171158787200530893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Floors_Doors_2
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 1203
+        width: 578
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a520134eba0032f42b692ada4d028f68
+      internalID: 2840085051150349959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Floors_Doors_3
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 1202
+        width: 62
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5aae97feeb73a341b6c09aa9b6d9ce6
+      internalID: 7743756237545808277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Floors_Doors_4
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 1202
+        width: 61
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 488fac5cfa8de2a4f92bdf22b89f7278
+      internalID: -6937312373503016096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Floors_Doors_5
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 1170
+        width: 82
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cd7703f623a07d49833afe6a6eee90d
+      internalID: -3886037988592554909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Floors_Doors_6
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 1170
+        width: 74
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c18c9605a479691429bed1873fca4b6a
+      internalID: 8080738301183940455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Floors_Doors_7
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 989
+        width: 294
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e603d448dd581c54990c3f1d4c58c364
+      internalID: -7048182722167327635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Floors_Doors_8
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 989
+        width: 292
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70d1835c35856784999b41e748a5a017
+      internalID: -5716374401081449714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Floors_Doors_9
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 989
+        width: 578
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24cf1ed6c8eecb64ebe1d4f519ea98bc
+      internalID: -1647394026539455571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Floors_Doors_10
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 998
+        width: 62
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d556bbee700a41e4e8313a039f1fe1f4
+      internalID: 3328542292101197469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Floors_Doors_11
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 998
+        width: 61
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09629cee40b87274e86e9e310a9c5809
+      internalID: -6497206931956412618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Floors_Doors_12
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 998
+        width: 89
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cc4b34b6e4941942b2f715216fa526b
+      internalID: -6459413179464938635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Floors_Doors_13
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 998
+        width: 74
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c89d5ad352d0a694489374b4c1f1e28c
+      internalID: 8264910730939478734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Floors_Doors_14
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 773
+        width: 294
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86c2e74a7d4b3ca4f9f0f0ae7eba482d
+      internalID: 3946579563874471228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Floors_Doors_15
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 776
+        width: 292
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef5db1d5e1ecb0442a0a94736bfde0d9
+      internalID: 5331797854037317807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Floors_Doors_16
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 773
+        width: 578
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77fb94aea316ed041ba5d90521817357
+      internalID: -1761802267558691963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Floors_Doors_17
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 756
+        width: 166
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef1d3035ae97a4b4eb165138dcd41098
+      internalID: -7633545429456432158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Floors_Doors_18
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 756
+        width: 166
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f29be4cea4761084e9b1559146525bfe
+      internalID: 8916804872612954847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Floors_Doors_19
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 558
+        width: 294
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 965a03f58136ce04482cc0a48eca8edc
+      internalID: 3996898133342175578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Floors_Doors_20
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 561
+        width: 292
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff426a1c9b63b3d4b96e8629fcceb300
+      internalID: 2055312098345463928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Floors_Doors_21
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 558
+        width: 578
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97c4f59d336e7764793f21bc8c4d637c
+      internalID: -2134178280381154158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Floors_Doors_22
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 345
+        width: 213
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdfbe190b562aee44aef73f9fc753ab6
+      internalID: -4888625866891261618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Floors_Doors_23
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 3
+        width: 605
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 573c4b81963b0ff4aa069d4b913761d5
+      internalID: 6491224676825318302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Floors_Doors_24
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 5
+        width: 394
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c5899497de5924d924bacfb54c424a
+      internalID: -7382481136730692379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Floors_Doors_25
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 5
+        width: 471
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4201525bb4dcd84cb954f2aa8badb1a
+      internalID: 5434293406783194434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Floors_Doors_26
+      rect:
+        serializedVersion: 2
+        x: 1759
+        y: 5
+        width: 551
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79764a453949b994a8096e03977cdf59
+      internalID: 6769138903269510542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Floors_Doors_27
+      rect:
+        serializedVersion: 2
+        x: 2401
+        y: 127
+        width: 25
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3afc4444b8652e4c946a474caebe949
+      internalID: -62088684265204750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Floors_Doors_28
+      rect:
+        serializedVersion: 2
+        x: 2465
+        y: 128
+        width: 26
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e5e6bed263098f459d442fc6115f4c8
+      internalID: -8868633463792976485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1027 @@
+fileFormatVersion: 2
+guid: 5df7690124f2e6e41976131071fbbf0d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5474522985393218567
+    second: Floors_and_Doors_0
+  - first:
+      213: 9138224477612197113
+    second: Floors_and_Doors_1
+  - first:
+      213: 825831800699999878
+    second: Floors_and_Doors_2
+  - first:
+      213: 6951323480877572254
+    second: Floors_and_Doors_3
+  - first:
+      213: 8116838466993125426
+    second: Floors_and_Doors_4
+  - first:
+      213: -7150607310616064738
+    second: Floors_and_Doors_5
+  - first:
+      213: -7928174669355289810
+    second: Floors_and_Doors_6
+  - first:
+      213: -4185163899576723422
+    second: Floors_and_Doors_7
+  - first:
+      213: 7354681142505016096
+    second: Floors_and_Doors_8
+  - first:
+      213: -2682566599289788448
+    second: Floors_and_Doors_9
+  - first:
+      213: 6995942292849594926
+    second: Floors_and_Doors_10
+  - first:
+      213: -3556662251699007227
+    second: Floors_and_Doors_11
+  - first:
+      213: -1875092457209188567
+    second: Floors_and_Doors_12
+  - first:
+      213: -1223236258626019503
+    second: Floors_and_Doors_13
+  - first:
+      213: -4166110954921238742
+    second: Floors_and_Doors_14
+  - first:
+      213: -7671469125275404337
+    second: Floors_and_Doors_15
+  - first:
+      213: 8218213707241380665
+    second: Floors_and_Doors_16
+  - first:
+      213: -6739773822900613579
+    second: Floors_and_Doors_17
+  - first:
+      213: 4741816530341987575
+    second: Floors_and_Doors_18
+  - first:
+      213: -6773309436620364050
+    second: Floors_and_Doors_19
+  - first:
+      213: 8209545120408888091
+    second: Floors_and_Doors_20
+  - first:
+      213: 4277422137432614471
+    second: Floors_and_Doors_21
+  - first:
+      213: -3647761464356445545
+    second: Floors_and_Doors_22
+  - first:
+      213: 3043781308195284073
+    second: Floors_and_Doors_23
+  - first:
+      213: -577380576500384876
+    second: Floors_and_Doors_24
+  - first:
+      213: -2263551423021840988
+    second: Floors_and_Doors_25
+  - first:
+      213: 8616442900341283773
+    second: Floors_and_Doors_26
+  - first:
+      213: 7983353101356054820
+    second: Floors_and_Doors_27
+  - first:
+      213: -7781122279042905294
+    second: Floors_and_Doors_28
+  - first:
+      213: 3731958378944205141
+    second: Floors_and_Doors_29
+  - first:
+      213: 5672884977908905315
+    second: Floors_and_Doors_30
+  - first:
+      213: 6054855935532866523
+    second: Floors_and_Doors_31
+  - first:
+      213: -4426482536099917647
+    second: Floors_and_Doors_32
+  - first:
+      213: 2166815571113711783
+    second: Floors_and_Doors_33
+  - first:
+      213: 2217543462598187747
+    second: Floors_and_Doors_34
+  - first:
+      213: 959341753573373043
+    second: Floors_and_Doors_35
+  - first:
+      213: 8561324560755545872
+    second: Floors_and_Doors_36
+  - first:
+      213: -6261752409842092408
+    second: Floors_and_Doors_37
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Floors_and_Doors_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1199
+        width: 287
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fe28acbe4b40334a8eb2a9b0b9238b7
+      internalID: 5474522985393218567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_and_Doors_1
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 1199
+        width: 290
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b856f7e5f1a41284bb89e81f79b21175
+      internalID: 9138224477612197113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_and_Doors_2
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 1199
+        width: 573
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 164c873c001689241be378f0ce50c764
+      internalID: 825831800699999878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_and_Doors_3
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 1198
+        width: 61
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90d7cda2b669fea41a918ba7fb9114c1
+      internalID: 6951323480877572254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_and_Doors_4
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 1198
+        width: 61
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92aac67b0cd54cc46bc3bc5d46e0778a
+      internalID: 8116838466993125426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_and_Doors_5
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 1198
+        width: 59
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28726f17941e22e488c4e74a6662f373
+      internalID: -7150607310616064738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_and_Doors_6
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 1198
+        width: 61
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18bfb6aec61f9e44593b018b840ff035
+      internalID: -7928174669355289810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_and_Doors_7
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 1170
+        width: 81
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a85b9bc0a1d480440bc4d1a69583443f
+      internalID: -4185163899576723422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_and_Doors_8
+      rect:
+        serializedVersion: 2
+        x: 1709
+        y: 1170
+        width: 72
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23aaab18f9c8a7147acd3ec75ddbeb61
+      internalID: 7354681142505016096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_and_Doors_9
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 986
+        width: 287
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8cfff86f7ec7da4db6e582ee8dc72c9
+      internalID: -2682566599289788448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_and_Doors_10
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 986
+        width: 290
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5534bf4abf74a584fb1d7c1aeb20df4c
+      internalID: 6995942292849594926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_and_Doors_11
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 986
+        width: 573
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98d04d61680fcea45bf179ccb240b730
+      internalID: -3556662251699007227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_and_Doors_12
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 996
+        width: 61
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f629b6e92c1a78143886ccb742dcc37e
+      internalID: -1875092457209188567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_and_Doors_13
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 996
+        width: 61
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01af392c30f70904fb028748f98db08e
+      internalID: -1223236258626019503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_and_Doors_14
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 996
+        width: 59
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5c3ad7d257980a41a23a618e3d8cc83
+      internalID: -4166110954921238742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_and_Doors_15
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 996
+        width: 61
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cf099a726757a34abd1013dcb1132ff
+      internalID: -7671469125275404337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_and_Doors_16
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 1000
+        width: 87
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dffb39ef87a71344bd096c324150336
+      internalID: 8218213707241380665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_and_Doors_17
+      rect:
+        serializedVersion: 2
+        x: 1713
+        y: 1000
+        width: 72
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 567279cd6b1898f4b9eb35bf4cba91a7
+      internalID: -6739773822900613579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_and_Doors_18
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 773
+        width: 287
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c19cc8dbb8895144bb273a3179e46d24
+      internalID: 4741816530341987575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_and_Doors_19
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 773
+        width: 290
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e21ef2cfed144541941f661259107e1
+      internalID: -6773309436620364050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_and_Doors_20
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 773
+        width: 573
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6556c384ba32c64ca3d7dbc089ccf76
+      internalID: 8209545120408888091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_and_Doors_21
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 760
+        width: 170
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa30bd5ff7f12e74289f9cebe111d12e
+      internalID: 4277422137432614471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_and_Doors_22
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 760
+        width: 161
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f32c61c894e9f854a97a7f5b3b9ab776
+      internalID: -3647761464356445545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_and_Doors_23
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 760
+        width: 127
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c2eabe680c74ae46a67d0abd165386c
+      internalID: 3043781308195284073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_and_Doors_24
+      rect:
+        serializedVersion: 2
+        x: 1709
+        y: 758
+        width: 102
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af386001aaee5074683cd7931e4e36c6
+      internalID: -577380576500384876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_and_Doors_25
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 558
+        width: 287
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 851615be00e9d5e4d9d7244d940837c9
+      internalID: -2263551423021840988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_and_Doors_26
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 558
+        width: 290
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47fe6b183e015df4697fd72e90560592
+      internalID: 8616442900341283773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_and_Doors_27
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 558
+        width: 573
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f05ad9ed52f346d4eb2328324cf5e636
+      internalID: 7983353101356054820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_and_Doors_28
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 345
+        width: 287
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41c190eeed760d6439d027ac0e4ab8f2
+      internalID: -7781122279042905294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_and_Doors_29
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 345
+        width: 290
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d0665e635331d541ab0d48be2ec3771
+      internalID: 3731958378944205141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_and_Doors_30
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 345
+        width: 573
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56ba9a70dff8a1e49a3f6512a6ebd400
+      internalID: 5672884977908905315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_and_Doors_31
+      rect:
+        serializedVersion: 2
+        x: 1958
+        y: 347
+        width: 210
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b84d35b3d9cfae54abf0942fc26fb4dc
+      internalID: 6054855935532866523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_and_Doors_32
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 8
+        width: 623
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe1d180ba4bf8b14683837233d81672c
+      internalID: -4426482536099917647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_and_Doors_33
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 9
+        width: 519
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be1b514a18e456b45b11b42fca440858
+      internalID: 2166815571113711783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_and_Doors_34
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 9
+        width: 467
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c387f03bbbd0d5c48ada67cedc3e4e70
+      internalID: 2217543462598187747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_and_Doors_35
+      rect:
+        serializedVersion: 2
+        x: 1788
+        y: 5
+        width: 526
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 288bfffca1725a54dba989f1fa68bf83
+      internalID: 959341753573373043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_and_Doors_36
+      rect:
+        serializedVersion: 2
+        x: 2375
+        y: 129
+        width: 25
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7ebfbad212aaf449a4d428c7c886fc6
+      internalID: 8561324560755545872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_and_Doors_37
+      rect:
+        serializedVersion: 2
+        x: 2438
+        y: 131
+        width: 25
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5008cfad213568749b4290dacaebdf5f
+      internalID: -6261752409842092408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

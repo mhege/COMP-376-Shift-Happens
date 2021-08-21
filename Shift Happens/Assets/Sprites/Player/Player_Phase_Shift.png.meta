@@ -1,0 +1,571 @@
+fileFormatVersion: 2
+guid: f61120f2356d3f34e99f089f31d2719a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3037421440344449977
+    second: Player_Phase_Shift_0
+  - first:
+      213: -7234875809927083632
+    second: Player_Phase_Shift_1
+  - first:
+      213: 5115303395442358595
+    second: Player_Phase_Shift_2
+  - first:
+      213: 744974500590849045
+    second: Player_Phase_Shift_3
+  - first:
+      213: -1719043708132699201
+    second: Player_Phase_Shift_4
+  - first:
+      213: 1089720238533237335
+    second: Player_Phase_Shift_5
+  - first:
+      213: -7624374048390996142
+    second: Player_Phase_Shift_6
+  - first:
+      213: 3297941924499763379
+    second: Player_Phase_Shift_7
+  - first:
+      213: -3284031805856092977
+    second: Player_Phase_Shift_8
+  - first:
+      213: -4597541491922704497
+    second: Player_Phase_Shift_9
+  - first:
+      213: -4731867459681392135
+    second: Player_Phase_Shift_10
+  - first:
+      213: 3494945583752768274
+    second: Player_Phase_Shift_11
+  - first:
+      213: 5037023036195273876
+    second: Player_Phase_Shift_12
+  - first:
+      213: 1220371202717132371
+    second: Player_Phase_Shift_13
+  - first:
+      213: -3964108696870804221
+    second: Player_Phase_Shift_14
+  - first:
+      213: -1515755930011940460
+    second: Player_Phase_Shift_15
+  - first:
+      213: 4350984657035819701
+    second: Player_Phase_Shift_16
+  - first:
+      213: -7541619645927518230
+    second: Player_Phase_Shift_17
+  - first:
+      213: 4040507669430917566
+    second: Player_Phase_Shift_18
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Player_Phase_Shift_0
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 1234
+        width: 202
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8472ad5158888994eb0fe7b15bdde951
+      internalID: -3037421440344449977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Phase_Shift_1
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 1234
+        width: 200
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e69c03eb87c430b4ebdfef83b81b5df3
+      internalID: -7234875809927083632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Phase_Shift_2
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 1234
+        width: 184
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f9affcf789b23c409386488a16e5f40
+      internalID: 5115303395442358595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Phase_Shift_3
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 1234
+        width: 136
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e95dacfa52a45d4491129448c541031
+      internalID: 744974500590849045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Phase_Shift_4
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 1234
+        width: 132
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af5a7f66a743f764b9695600cd28ea5c
+      internalID: -1719043708132699201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Phase_Shift_5
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 1560
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7070d3888b1a83c488d3e74324bd56ea
+      internalID: 1089720238533237335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Phase_Shift_6
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 1234
+        width: 133
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bbdafc21a604c3428d719e0fc191eb6
+      internalID: -7624374048390996142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Phase_Shift_7
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 716
+        width: 140
+        height: 386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 008f314608cf4d84fbc5ab4d00d254ca
+      internalID: 3297941924499763379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Phase_Shift_8
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 716
+        width: 132
+        height: 386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e23b273a635115a4a8c8796104cced12
+      internalID: -3284031805856092977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Phase_Shift_9
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 716
+        width: 137
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06c68cf086d7fe740a0002489fb34ec3
+      internalID: -4597541491922704497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Phase_Shift_10
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 716
+        width: 205
+        height: 438
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2d08a335a841c542b27f96b89a87cc3
+      internalID: -4731867459681392135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Phase_Shift_11
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 716
+        width: 221
+        height: 470
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75def680e8100fe47bf504d7fbb5e5fb
+      internalID: 3494945583752768274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Phase_Shift_12
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 716
+        width: 222
+        height: 470
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aa186eebd7610d409da24d5d230cb26
+      internalID: 5037023036195273876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Phase_Shift_13
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 200
+        width: 221
+        height: 471
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f166e72dfa37c64d9661e8244f853b1
+      internalID: 1220371202717132371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Phase_Shift_14
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 200
+        width: 221
+        height: 471
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7592490f97ec632429bc44656b67cd51
+      internalID: -3964108696870804221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Phase_Shift_15
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 200
+        width: 217
+        height: 463
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1dc7ee7fd3b61142a6a500a65e4f1f1
+      internalID: -1515755930011940460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Phase_Shift_16
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 200
+        width: 204
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b8119a9a9d5fb54291009b0b6bd33b7
+      internalID: 4350984657035819701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Phase_Shift_17
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 200
+        width: 201
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4372769499350543a0ef99edc6a28fe
+      internalID: -7541619645927518230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Phase_Shift_18
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 200
+        width: 201
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83b61a66df7557646bfcf96ba234266e
+      internalID: 4040507669430917566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

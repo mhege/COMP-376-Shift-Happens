@@ -1,0 +1,595 @@
+fileFormatVersion: 2
+guid: f0429e6abb9973940863653f171bb09a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1228946345230231636
+    second: Level3_Boss_0
+  - first:
+      213: -9141213389435551668
+    second: Level3_Boss_1
+  - first:
+      213: 1925303738154224317
+    second: Level3_Boss_2
+  - first:
+      213: 4278587751001097502
+    second: Level3_Boss_3
+  - first:
+      213: -5610573299214545252
+    second: Level3_Boss_4
+  - first:
+      213: 4139165877404932501
+    second: Level3_Boss_5
+  - first:
+      213: -3104968132478452236
+    second: Level3_Boss_6
+  - first:
+      213: -6329160439766311075
+    second: Level3_Boss_7
+  - first:
+      213: -8417088222595241791
+    second: Level3_Boss_8
+  - first:
+      213: -7755415795793345574
+    second: Level3_Boss_9
+  - first:
+      213: -3131240446453714264
+    second: Level3_Boss_10
+  - first:
+      213: -6051352812836631863
+    second: Level3_Boss_11
+  - first:
+      213: 4811186928467080620
+    second: Level3_Boss_12
+  - first:
+      213: 1291951952270030982
+    second: Level3_Boss_13
+  - first:
+      213: -6964013469504920624
+    second: Level3_Boss_14
+  - first:
+      213: -3714113037916697172
+    second: Level3_Boss_15
+  - first:
+      213: 332922292759511790
+    second: Level3_Boss_16
+  - first:
+      213: 7279945529268887290
+    second: Level3_Boss_17
+  - first:
+      213: 9202834549155153966
+    second: Level3_Boss_18
+  - first:
+      213: 2656445542054074131
+    second: Level3_Boss_19
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Level3_Boss_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1398
+        width: 296
+        height: 538
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c051b57768861f5458db69b5db787f6a
+      internalID: 1228946345230231636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Boss_1
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 1398
+        width: 295
+        height: 538
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eff0a294475173c438a5669f76d06dc0
+      internalID: -9141213389435551668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Boss_2
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 1394
+        width: 295
+        height: 538
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9f2096a5e2287343a5ca45067c4da2e
+      internalID: 1925303738154224317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Boss_3
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 1394
+        width: 143
+        height: 538
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d948e4b296529042989d273eb25bd47
+      internalID: 4278587751001097502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Boss_4
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 1398
+        width: 183
+        height: 538
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b97879c810e8f4449b9328be191bd64
+      internalID: -5610573299214545252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Boss_5
+      rect:
+        serializedVersion: 2
+        x: 1406
+        y: 1398
+        width: 184
+        height: 538
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d401985ffb7f414fbd2c0efa8a7b68d
+      internalID: 4139165877404932501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Boss_6
+      rect:
+        serializedVersion: 2
+        x: 1637
+        y: 1594
+        width: 356
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 482737d28f0c22c4eb3bf01d410f38a4
+      internalID: -3104968132478452236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Boss_7
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 697
+        width: 295
+        height: 538
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5f66f00633485c459a83592f6c450e4
+      internalID: -6329160439766311075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Boss_8
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 697
+        width: 294
+        height: 538
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 455616253faf53541a34ab33ed9d06ef
+      internalID: -8417088222595241791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Boss_9
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 697
+        width: 295
+        height: 538
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d94195ee7065f4ca471b388056d1bb
+      internalID: -7755415795793345574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Boss_10
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 705
+        width: 295
+        height: 546
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ff2775446612364782fa16ca191c8bd
+      internalID: -3131240446453714264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Boss_11
+      rect:
+        serializedVersion: 2
+        x: 1339
+        y: 705
+        width: 294
+        height: 546
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a96276d8144efa4b8e50b2d07bcdce7
+      internalID: -6051352812836631863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Boss_12
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 1183
+        width: 354
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4e5d21c04c588e4ead9d8b6ed2d6b83
+      internalID: 4811186928467080620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Boss_13
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 11
+        width: 143
+        height: 539
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c39d5da38eea0624a90e6a1171c63745
+      internalID: 1291951952270030982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Boss_14
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 11
+        width: 183
+        height: 539
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95291d945aaec564e9e92efdeebf25da
+      internalID: -6964013469504920624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Boss_15
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 11
+        width: 183
+        height: 539
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 404c3fe66781b8c48870f1ed678b4b04
+      internalID: -3714113037916697172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Boss_16
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 11
+        width: 187
+        height: 539
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feafa1ca9543e5147b1dd7d53ecfceff
+      internalID: 332922292759511790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Boss_17
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 24
+        width: 187
+        height: 538
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae8eb04a6ddeb474abde1c86dad8804b
+      internalID: 7279945529268887290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Boss_18
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 16
+        width: 295
+        height: 538
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33166e5ef93e0e14da0670ad7644ad9e
+      internalID: 9202834549155153966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level3_Boss_19
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 16
+        width: 294
+        height: 538
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 036c0ec68216f73419698fe710948005
+      internalID: 2656445542054074131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

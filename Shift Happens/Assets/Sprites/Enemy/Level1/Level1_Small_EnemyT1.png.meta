@@ -1,0 +1,499 @@
+fileFormatVersion: 2
+guid: 8200aacef99b6ce449987985dbb5f907
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7601320210755302324
+    second: Level1_Small_EnemyT1_0
+  - first:
+      213: -602997382541285601
+    second: Level1_Small_EnemyT1_1
+  - first:
+      213: 5264807669138801464
+    second: Level1_Small_EnemyT1_2
+  - first:
+      213: 3180923929164772690
+    second: Level1_Small_EnemyT1_3
+  - first:
+      213: 7066155584958196858
+    second: Level1_Small_EnemyT1_4
+  - first:
+      213: 363443754097473063
+    second: Level1_Small_EnemyT1_5
+  - first:
+      213: 2560858447012033335
+    second: Level1_Small_EnemyT1_6
+  - first:
+      213: 795601456066054209
+    second: Level1_Small_EnemyT1_7
+  - first:
+      213: 6702761185420304617
+    second: Level1_Small_EnemyT1_8
+  - first:
+      213: -7800037601452738205
+    second: Level1_Small_EnemyT1_9
+  - first:
+      213: -8619243442340110820
+    second: Level1_Small_EnemyT1_10
+  - first:
+      213: -1512531935241391719
+    second: Level1_Small_EnemyT1_11
+  - first:
+      213: 3253030723570869499
+    second: Level1_Small_EnemyT1_12
+  - first:
+      213: 3050778573089238186
+    second: Level1_Small_EnemyT1_13
+  - first:
+      213: 2562348441337918631
+    second: Level1_Small_EnemyT1_14
+  - first:
+      213: -8378742933531735466
+    second: Level1_Small_EnemyT1_15
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Level1_Small_EnemyT1_0
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1745
+        width: 299
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fd63977a1e71914e98cffd9916e0770
+      internalID: -7601320210755302324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1_Small_EnemyT1_1
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 1753
+        width: 299
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02285460ca75c6d45926acbe5dfcfdc7
+      internalID: -602997382541285601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1_Small_EnemyT1_2
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 1757
+        width: 298
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00def9606367e5a47a80c1ae11a63ea8
+      internalID: 5264807669138801464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1_Small_EnemyT1_3
+      rect:
+        serializedVersion: 2
+        x: 1637
+        y: 1757
+        width: 303
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63dd768e0c711b24c8d885d9461fe350
+      internalID: 3180923929164772690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1_Small_EnemyT1_4
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1498
+        width: 298
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dded2da748b7d704fbbd8406c391ea48
+      internalID: 7066155584958196858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1_Small_EnemyT1_5
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 1506
+        width: 299
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 630a56edde60bf64cb45f44c10f42ec2
+      internalID: 363443754097473063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1_Small_EnemyT1_6
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 1502
+        width: 298
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0675639a8ba33864195edbb8c8366bf1
+      internalID: 2560858447012033335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1_Small_EnemyT1_7
+      rect:
+        serializedVersion: 2
+        x: 1657
+        y: 1510
+        width: 304
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ec2d110c06bc664f83ccc414c41e746
+      internalID: 795601456066054209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1_Small_EnemyT1_8
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 1215
+        width: 128
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 667ef90eccddbfd4fb9386a23ce84003
+      internalID: 6702761185420304617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1_Small_EnemyT1_9
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 1195
+        width: 127
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79930f6d11810fc4a9b6927472d7ab3a
+      internalID: -7800037601452738205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1_Small_EnemyT1_10
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1211
+        width: 128
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 818c9a5afe9117b48b36c96da365de93
+      internalID: -8619243442340110820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1_Small_EnemyT1_11
+      rect:
+        serializedVersion: 2
+        x: 1733
+        y: 1227
+        width: 128
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96ad77872a18c664cbb19fd8fb5cd6be
+      internalID: -1512531935241391719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1_Small_EnemyT1_12
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 936
+        width: 136
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 382c1338221e9c3469afc8ccdec510c4
+      internalID: 3253030723570869499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1_Small_EnemyT1_13
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 932
+        width: 135
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9c6d34087332dd40bbcbaad5eccfa20
+      internalID: 3050778573089238186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1_Small_EnemyT1_14
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 936
+        width: 136
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a5b455f99eb0ab439213cb3ae289e35
+      internalID: 2562348441337918631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1_Small_EnemyT1_15
+      rect:
+        serializedVersion: 2
+        x: 1737
+        y: 948
+        width: 136
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c04893a35a305ff41aac49c289fb1ed7
+      internalID: -8378742933531735466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

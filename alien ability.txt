@@ -1,0 +1,2 @@
+animation is working when animator is in prefab, if its not working anyomore, add it to alienplayer to have alienability script connected for
+mouseinput control
